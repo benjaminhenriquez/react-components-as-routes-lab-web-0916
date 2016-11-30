@@ -10,6 +10,7 @@ import Movies from './components/Movies'
 const Routes = (
     <Route path="/" component={App}>
         {/* routes go here */}
+        <IndexRoute/>
     </Route>
 )
 
